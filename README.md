@@ -1,3 +1,5 @@
 # EpamDemo
-Just creating fir demo ,this is important for learning purpose .
-clear
+Just creating for demo ,this is important for learning purpose .
+
+
+Need to all the tasks clearly !.
